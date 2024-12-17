@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a personal project portfolio website. 
-- I plan to use HTML, CSS, JS, React.js, and Express.js for this endeavor.
-- I am currently using the DevOps methodology for this project.
--🌱 I’m currently learning C++
--👯 I am open to collaborating on a new AR / VR app. Optimally, this would be an open-source project.
-- I plan to use Unreal Engine for development.
-- 🤔 I’m looking for help with the Google Kubernetes Engine, Sphelte, R
-- Ask me about my passion for learning and innate ability to stay on top of the latest technologies and frameworks.
--⚡ Fun fact: "If you've never failed, you've never stepped outside your comfort zone." - Nuke
+What I am up to at the moment
 
-📫 How to reach me: 
-- Cell: 317-821-7472
-- [Email Me](mailto:gitnuke.dev@gmail.com)
+🔭 
+- Currently, I am in the design phase of my new portfolio website: gitnuke.dev@github.io. I plan to display all my projects on this site.
+- I plan to incorporate React.js and Express.js in some fashion for this endeavor.
+🌱
+- Currently, I am learning C++ through cengage learning.
+👯
+- I am open to collaborating on a new AR / VR app. I plan to use Unreal Engine for DevOps development. Furthermore, I plan to contribute to a few open-source projects this year.
+🤔
+- I’m looking for help learning Google Kubernetes Engine, AI / ML
+[?]
+- Ask me about my passion for learning and innate ability to stay on top of the latest technologies and frameworks.
+⚡
+- Fun fact: "If you have never failed, then you never stepped outside your comfort zone." - Nuke
+
+📫 
+- How to reach me | Cell: 317-821-7472 | [Email](mailto:gitnuke.dev@gmail.com)
